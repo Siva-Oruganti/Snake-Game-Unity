@@ -5,6 +5,19 @@ focused on **clean gameplay mechanics, state management, and responsive controls
 
 ---
 
+## 🎥 Demo Video
+
+▶️ Watch Gameplay Demo: https://drive.google.com/file/d/1wbhiALqSwInP_wO-UZ-8-_1Ip2__P1hu/view?usp=sharing
+
+This demo highlights:
+- Grid-based snake movement
+- Dynamic speed increase based on score
+- Collision detection (walls & self)
+- Score tracking and UI updates
+- Game over and restart system
+
+---
+
 ## 🎮 Project Overview
 
 The player controls a snake that grows in length by collecting food.
@@ -70,11 +83,6 @@ Assets/
 - Experience with 2D movement systems
 - Improved code structuring and readability
 - Practical UI integration skills
-
----
-
-## 📷 Screenshots / Demo
-(Add gameplay screenshots or demo video here)
 
 ---
 
